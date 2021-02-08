@@ -1,0 +1,49 @@
+body {
+width:50%;
+background-image: url("img/bg.jpg");
+background-image: no-repeat;
+
+
+
+
+}
+
+.invoker {
+  position: fixed;
+  left:33%;
+  padding-top: 120px;
+
+}
+
+.element-exort {
+  position:relative;
+  left:31rem;
+  top:8.5rem;
+  width:0
+}
+
+.exort {
+width:100px;
+}
+
+.element-quas {
+  position:relative;
+  left:55rem;
+  top:3rem;
+  width:0
+}
+
+.quas {
+width:110px;
+}
+
+.element-wex {
+  position:relative;
+  left:43.5rem;
+  bottom: 11rem;
+  width:0
+}
+
+.wex {
+width:100px;
+}
